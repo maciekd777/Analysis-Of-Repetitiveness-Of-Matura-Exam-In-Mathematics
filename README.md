@@ -30,4 +30,8 @@ Entire extraction process was done in Python, mostly using Pandas, Py-Pdf-Parser
 
 ## Data Manipulation, and Data Analysis
 
-Initially, all of the above was done in Python, mostly using Pandas, NumPy, Matplotlib, and Seaborn. The result can bee seen on the Notion project's site, and the entire code is available in `Matura Analysis Python.ipynb` file. However, later on all of these steps were done also on Power BI, and the result can be seen on PowerPoint presentation at the end of Notion project's site. The entire Power BI file with the analysis is named `Matura Analysis PowerBI.pbix`.
+Initially, all of the above was done in Python, mostly using Pandas, NumPy, Matplotlib, and Seaborn. The result can bee seen on the Notion project's site, and the entire code is available in `Matura Analysis Python.ipynb` file. However, later on all of these steps were done also on Power BI, and the result can be seen on PowerPoint presentation at the end of Notion project's site. The entire Power BI file with the analysis is named `Matura Analysis PowerBI.pbix`. Below are all three pages from the file:
+
+
+![image](https://github.com/user-attachments/assets/27ebba92-0c77-4f2c-8de8-da29289c013d)
+
