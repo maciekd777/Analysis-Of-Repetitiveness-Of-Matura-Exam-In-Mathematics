@@ -16,7 +16,13 @@ This project is about analysing repetitiveness of tasks on Poland's Matura exam 
 **Data visualization:** Matplotlib, Seaborn, Power BI
 
 ## Data Sources
-All files in `PDF` folder are
+
+All files in `PDF` folder are cropped files that originally were collected from following sources:
+
+* Files: `2015.pdf`, `2016.pdf`, `2017.pdf`, `2018.pdf`, `2019.pdf`, `2020.pdf`, `2023.pdf`, `2024.pdf` from [cke.gov.pl](cke.gov.pl)
+* Files: `2023_add.pdf`, `2024_add.pdf`, `2023_makeup.pdf` from [arkusze.pl](arkusze.pl)
+
+All PDF files in `XL` folder are cropped files that originally were collected from [cke.gov.pl](cke.gov.pl), changed to XLSX files, and prepare in Excel for future extraction and analysis.
 
 ## Badges
 
