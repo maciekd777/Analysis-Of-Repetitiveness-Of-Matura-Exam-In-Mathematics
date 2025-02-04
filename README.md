@@ -28,6 +28,6 @@ All PDF files in `XL` folder are cropped files that originally were collected fr
 
 Entire extraction process was done in Python, mostly using Pandas, Py-Pdf-Parser, and Regular Expression modules. The entire code is available in following files: `main.py`, `DataStorage.py`, `ExamExtractor.py`, and `PercExtractor.py`.
 
-## Data Cleaning, Data Transformation, and Data Analysis
+## Data Manipulation, and Data Analysis
 
 Initially, all of the above was done in Python, mostly using Pandas, NumPy, Matplotlib, and Seaborn. The result can bee seen on the Notion project's site, and the entire code is available in `Matura Analysis Python.ipynb` file. However, later on all of these steps were done also on Power BI, and the result can be seen on PowerPoint presentation at the end of Notion project's site. The entire Power BI file with the analysis is named `Matura Analysis PowerBI.pbix`.
