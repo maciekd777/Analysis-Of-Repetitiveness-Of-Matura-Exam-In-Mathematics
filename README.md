@@ -35,3 +35,8 @@ Initially, all of the above was done in Python, mostly using Pandas, NumPy, Matp
 
 ![image](https://github.com/user-attachments/assets/27ebba92-0c77-4f2c-8de8-da29289c013d)
 
+![image](https://github.com/user-attachments/assets/5ca7d62c-864a-4d95-aeff-0e7d8106607e)
+
+![image](https://github.com/user-attachments/assets/1738ec42-47ae-4e6f-925b-2f5308234b15)
+
+
